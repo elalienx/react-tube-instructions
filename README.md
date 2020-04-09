@@ -5,7 +5,7 @@
 Welcome to the [React.js](https://reactjs.org) exercise. The objetive is to learn the basic building blocks of React by creating a website that copy the functionality of YouTube using a home page to browse videos and another page to watch it. After completing the project the student will be ready to investigate additional concepts to expand the functionality of the site, like adding a search bar and filter the results.
 
 - Final project link: [React-Tube](https://react-tube-19e9e.firebaseapp.com)
-- [Download the project assets](https://www.dropbox.com/sh/i23r1xjoytin3a7/AABqDoUJUmPsnV3dwf-3N6csa?dl=0): Videos, thumbnails and logo.
+- [Download the project assets](https://www.dropbox.com/sh/i23r1xjoytin3a7/AABqDoUJUmPsnV3dwf-3N6csa?dl=0): Videos, thumbnails and logo. Note: Add `*.mp4` to your project git ignore, because uploading videos to git takes to long.
 
 ## Pre requisites
 These are concepts and files that will be mentioned during this guide, that the student must read before starting the project.
